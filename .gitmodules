@@ -1,0 +1,3 @@
+[submodule "star_gen"]
+	path = star_gen
+	url = ../star_gen/
